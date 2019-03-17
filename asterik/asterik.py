@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 13 23:48:20 2019
-@author: CodersMine
-"""
 a=[[1,1,1,1],
    [1,0,0,1],
    [1,1,1,1],
